@@ -1,0 +1,5 @@
+c:\users\reymundo tenorio\documents\visual studio 2015\Projects\CheckInternetConnection\CheckInternetConnection\bin\Debug\CheckInternetConnection.exe.config
+c:\users\reymundo tenorio\documents\visual studio 2015\Projects\CheckInternetConnection\CheckInternetConnection\bin\Debug\CheckInternetConnection.exe
+c:\users\reymundo tenorio\documents\visual studio 2015\Projects\CheckInternetConnection\CheckInternetConnection\bin\Debug\CheckInternetConnection.pdb
+c:\users\reymundo tenorio\documents\visual studio 2015\Projects\CheckInternetConnection\CheckInternetConnection\obj\Debug\CheckInternetConnection.exe
+c:\users\reymundo tenorio\documents\visual studio 2015\Projects\CheckInternetConnection\CheckInternetConnection\obj\Debug\CheckInternetConnection.pdb
